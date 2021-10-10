@@ -3,9 +3,13 @@ img {
   margin-left: auto;
   margin-right: auto;
 
-  height: 250px;
+  height: 200px;
+  width: 400px;
 }
 
 body {
   background-color: azure;
+
+  margin-left: 30%;
+  margin-right: 30%;
 }
